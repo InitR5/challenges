@@ -5,4 +5,4 @@ Hola! Mi nombre es Edward Mauricio Suarez, estudiante de ingeniería informátic
 # CTF's 
 ## Ctf ctf.q4hacking.io
 	Este ctf, fue realizado el día 10 de Abril del 2020. En este ctf pudimos realizar varios retos. 
-![Descripción del ctf](https://i.imgur.com/lQob9E2.jpg)# CTF
+![Descripción del ctf](https://i.imgur.com/lQob9E2.jpg)
